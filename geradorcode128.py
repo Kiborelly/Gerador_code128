@@ -24,4 +24,4 @@ for arquivo in lista_arquivos:
 
 gerador_code128(texto_para_codificar, nome_arquivo)
 
-print(f"Codigo {texto_para_codificar} gerado com sucesso")
+print(f"Codigo {nome_arquivo} gerado com sucesso")
